@@ -1,0 +1,3 @@
+gradio as gr
+openai
+from PIL import Image
